@@ -11,7 +11,7 @@
         <asp:Label runat="server"
             ID="name">Enter the name:</asp:Label>
         <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
-
+        <asp:TextBox ID="txtRollNo" runat="server"></asp:TextBox>
     </form>
 </body>
 </html>
